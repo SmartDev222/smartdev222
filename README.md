@@ -1,6 +1,6 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p> My name is Cody and i'm a Full Stack developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197567.png" width="17" /> <b>Dublin, Ireland</b>. </p>
+<p> My name is Cody and i'm a Full Stack developer.
 
 ## About me
 
